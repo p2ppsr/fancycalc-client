@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# FancyCalc Client
+
+[Watch the video tutorial!](https://youtu.be/J1M4VfBlqbs)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
