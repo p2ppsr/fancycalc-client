@@ -18,9 +18,6 @@ function App () {
             a: Number(a),
             b: Number(b)
           })
-        },
-        {
-          clientPrivateKey: '5ad26fee0a367fb8dea21b39631985ba0a07bb5206d4ff3e8bd8fa478246b071'
         }
       )
       let parsedResult = JSON.parse(Buffer.from(
